@@ -1,0 +1,45 @@
+
+body {
+    line-height: 1.5;
+    background-color: rgba(211, 211, 211, 0.911);
+}
+  
+h1 {
+    font-family: arial; 
+    color: darkgrey
+}
+
+.heading1, .p1 {
+    font-family: Gill Sans;
+}
+
+.heading2, .p2 {
+    font-family: Verdana; 
+}
+
+.heading3, .p3 {
+    font-family: Courier New; 
+}
+
+.p1, .p2, .p3 {
+    line-height: 3;
+}
+
+.heading1, .heading2, .heading3, .p1, .p2, .p3 {
+    text-align: center; 
+}
+
+.section1 {
+    background-color: lightblue;
+    padding: 10px;
+}
+
+.section2 {
+    background-color: rgba(124, 204, 231, 0.911);
+    padding: 100px;
+}
+
+.section3 {
+    background-color: rgba(40, 182, 230, 0.767);
+    padding: 150px; 
+}
